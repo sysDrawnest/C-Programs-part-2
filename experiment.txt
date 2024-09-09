@@ -1,0 +1,4 @@
+Name = abc
+Id = 1
+salary = 1234.000000
+hye sai 
